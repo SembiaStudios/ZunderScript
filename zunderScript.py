@@ -6,7 +6,7 @@ def zund_print():
     if zund==print(""):
         print(zund)
 
-zund.io()
+zund_print()
 
 def zund_input():
     read=0
@@ -14,11 +14,11 @@ def zund_input():
     if zund==read:
         i=input("Bitte eingabe tätigen : ")
         print(i)
-zund.io()
+zund_io()
 
-def zunder.help():
+def zund_help():
     x = input()
     if x == ("help"):
         print("zund_print("") ist für einfache print befehle.")
         print("zund.io() ist für inputs gedacht.")
-zunder.help()
+zund_help()
